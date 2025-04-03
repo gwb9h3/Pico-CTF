@@ -42,3 +42,5 @@ The flag is: picoCTF{wh47_c4n_u_d0_wPHP_f7424fc7
 Kevin Montes :D
 &
 Oliver Eulert
+&
+Grady Bice
